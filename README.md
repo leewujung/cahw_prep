@@ -2,7 +2,7 @@
 
 
 ```
-$ conda create -n tmpsf ipykernel requests thredds_crawler xarray netcdf4 pandas numpy matplotlib
+$ conda create -n tmpsf python=2 ipykernel requests thredds_crawler xarray netcdf4 pandas numpy matplotlib
 ```
 
 
